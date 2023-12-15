@@ -1,0 +1,13 @@
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\bin\Debug\Eokuldb.exe.config
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\bin\Debug\Eokuldb.exe
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\bin\Debug\Eokuldb.pdb
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.csproj.AssemblyReference.cache
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.csproj.SuggestedBindingRedirects.cache
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.Form1.resources
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.Properties.Resources.resources
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.csproj.GenerateResource.cache
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.csproj.CoreCompileInputs.cache
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.exe
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.pdb
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.frmogrencinot.resources
+C:\Users\canbo\source\repos\Eokuldb\Eokuldb\obj\Debug\Eokuldb.frmogretmen.resources

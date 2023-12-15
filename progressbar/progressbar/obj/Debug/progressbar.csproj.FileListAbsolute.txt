@@ -1,0 +1,11 @@
+C:\Users\canbo\source\repos\progressbar\progressbar\bin\Debug\progressbar.exe.config
+C:\Users\canbo\source\repos\progressbar\progressbar\bin\Debug\progressbar.exe
+C:\Users\canbo\source\repos\progressbar\progressbar\bin\Debug\progressbar.pdb
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.exe
+C:\Users\canbo\source\repos\progressbar\progressbar\obj\Debug\progressbar.pdb

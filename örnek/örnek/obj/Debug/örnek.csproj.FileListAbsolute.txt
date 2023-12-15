@@ -1,0 +1,11 @@
+C:\Users\canbo\source\repos\örnek\örnek\bin\Debug\örnek.exe.config
+C:\Users\canbo\source\repos\örnek\örnek\bin\Debug\örnek.exe
+C:\Users\canbo\source\repos\örnek\örnek\bin\Debug\örnek.pdb
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.csproj.AssemblyReference.cache
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.Form1.resources
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.Properties.Resources.resources
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.csproj.GenerateResource.cache
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.csproj.CoreCompileInputs.cache
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.exe
+C:\Users\canbo\source\repos\örnek\örnek\obj\Debug\örnek.pdb
